@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🐍 生于89年，14年小硕毕业的 iOS 开发路上的小学生一枚。
+🔭 就职过 联想上海研究院、nonda、阿里巴巴人工智能实验室，目前在商汤科技从事 iOS SDK开发。
+
+
 <!--
 **iDurian/idurian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
