@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 任职过联想上海研究院、nonda、阿里巴巴人工智能实验室，目前在商汤科技从事 iOS SDK开发。
+🔭 任职过联想上海研究院、nonda、阿里巴巴人工智能实验室、商汤智能科技。
 
 📮 有兴趣可 [邮件](mailto:gaodongdong2012@gmail.com)
 
